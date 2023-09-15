@@ -1,0 +1,40 @@
+body {
+  background-color: white;
+}
+
+.container {
+  width: 470px;
+  height: 150px;
+  padding-right: 20px;
+  padding-left: 20px;
+  border-radius: 15px;
+  text-align: center;
+  background-color: #85cddf;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+p {
+  font-weight: 800;
+  text-align: center;
+  font-size: 17px;
+  color: #1c5d6d ;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+  text-align: center;
+}
+
+.btn-generator {
+  background-color: #dd7973;
+  border-color: #df731f;
+  color: white;
+  border-style: solid;
+  border-radius: 10px;
+  font-size: 20px;
+  width: 90px;
+  height: 30px;
+}
